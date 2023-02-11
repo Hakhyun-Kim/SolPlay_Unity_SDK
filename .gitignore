@@ -23,6 +23,7 @@ obj/
 *.unityproj
 *.booproj
 *.pidb
+/*.vsconfig
 
 # ===================================== #
 # Rider								    #
